@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Ulises Martínez</h1>
-<h3 align="center">Soy estudiante de Ingeniería en Desarrollo & Gestión de Software. Actualmente centrado para desarrollador Full-Stack, aprendiendo tecnologías diariamente.</h3>
+<h3 align="center">Soy estudiante de Ingeniería en Desarrollo & Gestión de Software. Actualmente centrado para ser desarrollador Full-Stack, aprendiendo tecnologías diariamente.</h3>
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
