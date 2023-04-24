@@ -1,6 +1,6 @@
 <h1 align="center">Hola 👋, soy Ulises Martínez</h1>
 <h3 align="center">Soy estudiante de Ingeniería en Desarrollo & Gestión de Software. Actualmente centrado para ser desarrollador .Net(6 y 7) y otras tecnologías.</h3>
-<img align="center" alt="Codificación" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="rigth" alt="Codificación" width="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 <h3 align="left">Contactame en:</h3>
 <p align="left">
