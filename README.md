@@ -9,7 +9,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rck23&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br/>
  ![](https://github-readme-streak-stats.herokuapp.com/?user=Rck23&theme=tokyonight&hide_border=false)
 
-<img align="right" alt="Codificación" width="250" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="Codificación" width="450" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 # Contactame en:
 <p align="left">
