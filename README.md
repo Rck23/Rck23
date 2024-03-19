@@ -17,8 +17,4 @@
 <a href="https://instagram.com/ulises_fc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ulises_fc" height="60" width="60" margin-right="10px"/></a>
 </p>
 
-# Mi portafolio: 
-<a href="https://portafolioulisesmtz.azurewebsites.net/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1454/1454827.png" alt="Portfolio" height="70" width="70" /></a>
 
----
-[![](https://visitcount.itsvg.in/api?id=Rck23&label=Visitas%20perfil&color=1&icon=7&pretty=true)](https://visitcount.itsvg.in)
