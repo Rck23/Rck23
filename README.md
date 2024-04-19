@@ -67,10 +67,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rck23/Rck23/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
