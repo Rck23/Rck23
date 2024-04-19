@@ -66,11 +66,3 @@
 </div>
 
 ###
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Rck23/count.svg?"  />
-</div>
-
-###
