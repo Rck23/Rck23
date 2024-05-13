@@ -53,7 +53,7 @@
 
 ###
 
-<div align="left">
+<div align="left" margin-bottom=15px>
   <h3>Contacto</h3>
 
   <a href="https://www.linkedin.com/in/ulises-mart%C3%ADnez-olivares-09276b258/" target="_blank">
@@ -71,7 +71,7 @@
   <h3>Portafolio</h3>
 
   <a href="https://portafolioulisesmtz.azurewebsites.net/" target="_blank">
-    <img src="https://bekaab.org/wp-content/uploads/2020/07/Logo-PP--1024x1024.png" width="65" height="45" alt="Portfolio logo"  />
+    <img src="https://static.vecteezy.com/system/resources/previews/021/973/246/original/briefcase-3d-render-icon-illustration-with-transparent-background-productivity-png.png" width="65" height="45" alt="Portfolio logo"  />
   </a>
 
 </div>
